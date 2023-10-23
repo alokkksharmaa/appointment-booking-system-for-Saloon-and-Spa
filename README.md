@@ -1,1 +1,1 @@
-# appointment-booking-system-for-Saloon-and-Spa
+# Appointment-booking-system-for-Saloon-and-Spa
